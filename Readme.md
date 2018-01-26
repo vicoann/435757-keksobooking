@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Anfisa Novikova](https://up.htmlacademy.ru/javascript/12/user/435757).
-* Наставник: `Неизвестно`.
+* Наставник: `Анастасия Норцова`.
 
 ---
 
